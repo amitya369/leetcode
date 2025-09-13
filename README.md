@@ -1,2 +1,2 @@
 # leetcode
-let's solve leetcode 
+let's solve leetcode
