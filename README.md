@@ -1,2 +1,2 @@
 # leetcode
-let's f**k leetcode 
+let's solve leetcode 
